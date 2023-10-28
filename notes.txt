@@ -1,5 +1,7 @@
-motor
 
-fastapi
+Before Running this backend application.Install the following package.It will short out the errors while executing the application.
 
-uvicorn
+The packages are:
+  motor,
+  fastapi,
+  uvicorn.
